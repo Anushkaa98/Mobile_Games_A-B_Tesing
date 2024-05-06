@@ -1,6 +1,6 @@
 # Cookie Cats A/B Test Analysis
 
-## 1. Of cats and cookies
+## 1. Cookie Cats Video Game
 Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. As players progress through the levels, they encounter gates that force them to wait or make in-app purchases to progress, serving the dual purpose of driving revenue and providing players with an enforced break.
 
 ## 2. The AB-test data
